@@ -1,0 +1,39 @@
+E:\WEB\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll.config
+E:\WEB\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll
+E:\WEB\wProveedores\wProveedores\wProveedores\bin\wProveedores.pdb
+E:\WEB\wProveedores\wProveedores\wProveedores\bin\Telerik.Web.UI.xml
+E:\WEB\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csprojResolveAssemblyReference.cache
+E:\WEB\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll.licenses
+E:\WEB\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll
+E:\WEB\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.pdb
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll.config
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.pdb
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\bin\Telerik.Web.UI.xml
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.AssemblyReference.cache
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll.licenses
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.CoreCompileInputs.cache
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.CopyComplete
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll
+C:\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.pdb
+\\172.20.1.26\Files2\IT\FilesTransfers\BK Giovanni\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.AssemblyReference.cache
+\\172.20.1.26\Files2\IT\FilesTransfers\BK Giovanni\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll.licenses
+\\172.20.1.26\Files2\IT\FilesTransfers\BK Giovanni\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll
+\\172.20.1.26\Files2\IT\FilesTransfers\BK Giovanni\Denimville\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.pdb
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\Telerik.Web.Design.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\Telerik.Web.Device.Detection.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\Telerik.Web.Device.Detection.xml
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\Telerik.Web.UI.Skins.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\wProveedores.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\wProveedores.pdb
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\bin\wProveedores.dll.config
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\Telerik.Web.UI.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.AssemblyReference.cache
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll.licenses
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.csproj.CoreCompileInputs.cache
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveed.10E66698.Up2Date
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\obj\Debug\wProveedores.pdb
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll.config
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.dll
+C:\Users\andre.ortega\Documents\Desarrollo\wProveedores\wProveedores\wProveedores\bin\wProveedores.pdb

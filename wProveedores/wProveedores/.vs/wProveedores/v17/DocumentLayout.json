@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESARROLLO\\wProveedores\\wProveedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|d:\\desarrollo\\wproveedores\\wproveedores\\wproveedores\\cafeteria\\valescafeteria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\cafeteria\\valescafeteria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\seguridad\\gruposusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\seguridad\\gruposusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\consultaempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\consultaempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\proveedores\\planesfinanciamiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\proveedores\\planesfinanciamiento.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\cafeteria\\valescafeteria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\cafeteria\\valescafeteria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\cafeteria\\consultavalescafeteria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\cafeteria\\consultavalescafeteria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\precompiledapp.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\precompiledapp.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|D:\\DESARROLLO\\wProveedores\\wProveedores\\wproveedores\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{759B899B-6619-4819-AA28-39B17E4042A6}|wProveedores\\wProveedores.csproj|solutionrelative:wproveedores\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\Web.config",
+              "RelativeDocumentMoniker": "wProveedores\\Web.config",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\Web.config",
+              "RelativeToolTip": "wProveedores\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-04T18:11:20.674Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gruposUsuarios.aspx.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\seguridad\\gruposUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "wProveedores\\seguridad\\gruposUsuarios.aspx.cs",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\seguridad\\gruposUsuarios.aspx.cs",
+              "RelativeToolTip": "wProveedores\\seguridad\\gruposUsuarios.aspx.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAEwKoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:54:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "planesFinanciamiento.aspx.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\proveedores\\planesFinanciamiento.aspx.cs",
+              "RelativeDocumentMoniker": "wProveedores\\proveedores\\planesFinanciamiento.aspx.cs",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\proveedores\\planesFinanciamiento.aspx.cs",
+              "RelativeToolTip": "wProveedores\\proveedores\\planesFinanciamiento.aspx.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:54:58.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consultaEmpleado.aspx",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\consultaEmpleado.aspx",
+              "RelativeDocumentMoniker": "wProveedores\\consultaEmpleado.aspx",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\consultaEmpleado.aspx",
+              "RelativeToolTip": "wProveedores\\consultaEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-29T15:51:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrecompiledApp.config",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\PrecompiledApp.config",
+              "RelativeDocumentMoniker": "wProveedores\\PrecompiledApp.config",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\PrecompiledApp.config",
+              "RelativeToolTip": "wProveedores\\PrecompiledApp.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-04T20:58:59.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "valesCafeteria.aspx.cs",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\valesCafeteria.aspx.cs",
+              "RelativeDocumentMoniker": "wProveedores\\cafeteria\\valesCafeteria.aspx.cs",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\valesCafeteria.aspx.cs",
+              "RelativeToolTip": "wProveedores\\cafeteria\\valesCafeteria.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:57:40.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "consultaValesCafeteria.aspx",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\consultaValesCafeteria.aspx",
+              "RelativeDocumentMoniker": "wProveedores\\cafeteria\\consultaValesCafeteria.aspx",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\consultaValesCafeteria.aspx",
+              "RelativeToolTip": "wProveedores\\cafeteria\\consultaValesCafeteria.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-08T13:22:27.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config",
+              "RelativeDocumentMoniker": "wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config",
+              "RelativeToolTip": "wProveedores\\obj\\Release\\AspnetCompileMerge\\Source\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-04T20:41:11.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.Master",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\main.Master",
+              "RelativeDocumentMoniker": "wProveedores\\main.Master",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\main.Master",
+              "RelativeToolTip": "wProveedores\\main.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-04T18:57:20.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "valesCafeteria.aspx",
+              "DocumentMoniker": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\valesCafeteria.aspx",
+              "RelativeDocumentMoniker": "wProveedores\\cafeteria\\valesCafeteria.aspx",
+              "ToolTip": "D:\\DESARROLLO\\wProveedores\\wProveedores\\wProveedores\\cafeteria\\valesCafeteria.aspx",
+              "RelativeToolTip": "wProveedores\\cafeteria\\valesCafeteria.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-07T17:47:09.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
