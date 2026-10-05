@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+
+    <title>Consultas - ManoDeObra</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Nuestro CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="header-wrap d-none d-md-block">
+
+        <div class="container">
+
+            <div class="row">
+
+                <header class="col-6 text-left">
+
+                    <h1>
+                        <span>Mano</span>DeObra
+                    </h1>
+
+                    <h3>Módulo de Proveedores</h3>
+
+                </header>
+
+                <div class="col-6 text-right">
+
+                    <p class="header-social-icons social-icons">
+
+                        <a href="#">
+                            <i class="fa fa-facebook fa-2x"></i>
+                        </a>
+
+                        <a href="#">
+                            <i class="fa fa-twitter fa-2x"></i>
+                        </a>
+
+                        <a href="#">
+                            <i class="fa fa-youtube fa-2x"></i>
+                        </a>
+
+                        <a href="#">
+                            <i class="fa fa-instagram fa-2x"></i>
+                        </a>
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md navbar-dark">
+
+        <div class="container">
+
+            <a class="navbar-brand" href="inicio.html">
+                Inicio
+            </a>
+
+            <button class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#mainNavbar">
+
+                <span class="navbar-toggler-icon"></span>
+
+            </button>
+
+            <div class="collapse navbar-collapse" id="mainNavbar">
+
+                <ul class="navbar-nav mr-auto">
+
+                    <li class="nav-item">
+
+                        <a class="nav-link"
+                            href="inicio.html">
+                            Inicio
+                        </a>
+
+                    </li>
+
+                    <li class="nav-item active">
+
+                        <a class="nav-link"
+                            href="consultas.html">
+                            Consultas
+                        </a>
+
+                    </li>
+
+                    <li class="nav-item">
+
+                        <a class="nav-link"
+                            href="login.html">
+                            Cerrar Sesión
+                        </a>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+
+    <!-- Main -->
+    <main class="container mt-4">
+
+        <div class="content-card">
+
+            <h2>
+                Consulta de Empleados
+            </h2>
+
+
+            <!-- Buscador -->
+            <div class="search-section">
+
+                <div class="form-row">
+
+                    <div class="col-md-3">
+
+                        <label for="codigoEmpleado">
+                            Código de pago:
+                        </label>
+
+                        <input type="text"
+                            class="form-control"
+                            id="codigoEmpleado"
+                            placeholder="Ingrese código">
+
+                    </div>
+
+
+                    <div class="col-md-5">
+
+                        <label for="empleado">
+                            Empleado:
+                        </label>
+
+                        <input type="text"
+                            class="form-control"
+                            id="empleado"
+                            placeholder="Nombre del empleado"
+                            readonly>
+
+                    </div>
+
+
+                    <div class="col-md-4">
+
+                        <label>&nbsp;</label>
+
+                        <div class="btn-group w-100">
+
+                            <button type="button"
+                                class="btn btn-primary">
+                                Buscar
+                            </button>
+
+                            <button type="button"
+                                class="btn btn-secondary">
+                                Limpiar
+                            </button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <hr>
+
+
+            <!-- Resultados -->
+            <div class="results-section">
+
+                <h3>
+                    Información del Empleado
+                </h3>
+
+
+                <div class="form-row">
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="frecuencia">
+                                Frecuencia:
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="frecuencia"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="limiteCredito">
+                                Límite de crédito mensual:
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="limiteCredito"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="form-row">
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="fechaIngreso">
+                                Fecha de ingreso:
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="fechaIngreso"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="estado">
+                                Estado:
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="estado"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="form-row">
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="vales">
+                                Total en vales:
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="vales"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6">
+
+                        <div class="form-group">
+
+                            <label for="planesPago">
+                                Total en planes de pago (Pendiente):
+                            </label>
+
+                            <input type="text"
+                                class="form-control"
+                                id="planesPago"
+                                readonly>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>

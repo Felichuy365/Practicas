@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Login - ManoDeObra</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Nuestro CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="header-wrap d-none d-md-block">
+        <div class="container">
+            <div class="row">
+
+                <header class="col-6 text-left">
+                    <h1><span>Mano</span>DeObra</h1>
+                </header>
+
+                <div class="col-6 text-right">
+                    <p class="header-social-icons social-icons">
+                        <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                        <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                        <a href="#"><i class="fa fa-youtube fa-2x"></i></a>
+                        <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Login -->
+    <main class="container">
+
+        <div class="login-container">
+
+            <div class="login-card">
+
+                <h2>Iniciar Sesión</h2>
+
+                <form>
+
+                    <div class="form-group">
+                        <label for="empresa">Empresa:</label>
+
+                        <select class="form-control" id="empresa">
+                            <option value="">Seleccione una empresa</option>
+                            <option value="1">Empresa Demo 1</option>
+                            <option value="2">Empresa Demo 2</option>
+                            <option value="3">Empresa Demo 3</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="usuario">Usuario:</label>
+
+                        <input type="text"
+                            class="form-control"
+                            id="usuario"
+                            placeholder="Ingrese su usuario">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Contraseña:</label>
+
+                        <input type="password"
+                            class="form-control"
+                            id="password"
+                            placeholder="Ingrese su contraseña">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="modulo">Módulo:</label>
+
+                        <select class="form-control" id="modulo">
+                            <option value="">Seleccione un módulo</option>
+                            <option value="1">Recursos Humanos</option>
+                            <option value="2">Proveedores</option>
+                            <option value="3">Nómina</option>
+                        </select>
+                    </div>
+
+                    <div class="text-center mt-4">
+
+                        <button type="submit"
+                            class="btn btn-primary btn-lg">
+                            Aceptar
+                        </button>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
